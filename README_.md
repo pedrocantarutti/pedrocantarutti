@@ -2,7 +2,7 @@
 
 
 <div>
-  <img heigth="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrocantarutti&layout=compact&langs_count=16&theme=dracula"/> 
+  <img heigth="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrocantarutti&layout=compact&langs_count=16"/> 
  </div>
 
 
