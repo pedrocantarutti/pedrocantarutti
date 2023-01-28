@@ -1,4 +1,4 @@
-### Hi there 👋
+## Hi there 👋
 
 struct Developer {
   let name = "Pedro Cantarutti"
@@ -17,6 +17,12 @@ struct Developer {
 let me = Developer()
 me.sayHi()
 
+
+
+## Links
+
+- **Website:** ____
+- **LinkedIn:** https://www.linkedin.com/in/pedrocantarutti/
 
 <div>
   <img heigth="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrocantarutti&layout=compact&langs_count=16"/> 
