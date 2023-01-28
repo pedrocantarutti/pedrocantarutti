@@ -1,21 +1,23 @@
 ### Hi there 👋
 
+struct Developer {
+  let name = "Pedro Cantarutti"
+  let pronouns = "he/him/his"
+  let age = 30
+  let role = "Backend Developer"
+  let location = "Gramado RS🇹"
+  let languages = ["pt BR", "en_US"]
+  let skills = ["Python", "JavaScript"]
+  
+  func sayHi() {
+    print("Hey, thanks for dropping by, if you want you can drop me a line at cantarutti.pedro@gmail.com!")
+  }
+}
+
+let me = Developer()
+me.sayHi()
+
 
 <div>
   <img heigth="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrocantarutti&layout=compact&langs_count=16"/> 
  </div>
-
-
-<!--
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
