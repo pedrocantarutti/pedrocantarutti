@@ -1,4 +1,4 @@
-## Hi there 👋
+# Hi there 👋
 
 struct Developer {
   let name = "Pedro Cantarutti"
