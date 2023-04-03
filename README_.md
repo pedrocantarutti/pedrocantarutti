@@ -1,6 +1,6 @@
 # Hi there 👋
 
-`struct Developer {
+```struct Developer {
   let name = "Pedro Cantarutti"
   let pronouns = "he/him/his"
   let age = 30
@@ -15,7 +15,7 @@
 }
 
 let me = Developer()
-me.sayHi()`
+me.sayHi()```
 
 
 
