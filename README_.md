@@ -4,10 +4,10 @@
   let name = "Pedro Cantarutti"
   let pronouns = "he/him/his"
   let age = 30
-  let role = "Backend Developer"
+  let role = "Software Engineer"
   let location = "Gramado RS🇹"
   let languages = ["pt BR", "en_US"]
-  let skills = ["Python", "JavaScript"]
+  let skills = ["Python", "C++", "JavaScript"]
   
   func sayHi() {
     print("Hey, thanks for dropping by, if you want you can drop me a line at cantarutti.pedro@gmail.com!")
