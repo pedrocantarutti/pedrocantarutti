@@ -1,3 +1,5 @@
+<h1>EN/en</h1>
+
 # Hi there 👋
 
 ```struct Developer {
@@ -18,7 +20,7 @@ let me = Developer()
 me.sayHi()
 ```
 
-
+<h1>PT/br</h1>
 
 ### Links
 
