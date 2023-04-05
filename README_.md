@@ -22,6 +22,26 @@ me.sayHi()
 
 <h1>PT/br</h1>
 
+# Olá! 👋
+
+```struct Developer {
+  let name = "Pedro Cantarutti"
+  let pronouns = "ele/dele"
+  let age = 30
+  let role = "Software Engineer"
+  let location = "Gramado RS🇹"
+  let languages = ["pt BR", "en_US"]
+  let skills = ["Python", "C++", "JavaScript"]
+  
+  func sayHi() {
+    print("Hey, obrigado por visualizar essa página, se você desejar pode entrar em contato comigo através do email: cantarutti.pedro@gmail.com!")
+  }
+}
+
+let me = Developer()
+me.sayHi()
+```
+
 ### Links
 
 - **Website:** ____
